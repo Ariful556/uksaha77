@@ -1,3 +1,4 @@
+<img alt="Web Development Banner" height="250" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" style="max-width: 100%; display: inline-block;">
 <h1 align="center">Hi 👋, I'm Ujjal K. Saha</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
@@ -22,7 +23,7 @@
 - 📄 Know about my experiences [https://www.monster.com/career-advice/article/web-developer-resume-sample](https://www.monster.com/career-advice/article/web-developer-resume-sample)
 
 - ⚡ Fun fact **I am funny**
-
+<img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uks_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uks_77" height="30" width="40" /></a>
