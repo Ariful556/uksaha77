@@ -1,6 +1,6 @@
 <img alt="Web Development Banner" height="250" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" style="max-width: 100%; display: inline-block;">
 <h1 align="center">Hi 👋, I'm Ujjal K. Saha</h1>
-<img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="max-width: 100%; text-align: center;" data-target="animated-image.originalImage">
+<p style="text-align:right"><img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="max-width: 100%; text-align: center;" data-target="animated-image.originalImage"></p>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uksaha77&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
