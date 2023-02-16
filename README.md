@@ -8,21 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/uks_77" target="blank"><img src="https://img.shields.io/twitter/follow/uks_77?logo=twitter&style=for-the-badge" alt="uks_77" /></a> </p>
 
-- 🔭 I’m currently working on [BJET](https://www.facebook.com/bjet.org)
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://www.project.co/](https://www.project.co/)
-
-- 📝 I regularly write articles on [https://techcrunch.com/](https://techcrunch.com/)
-
-- 💬 Ask me about **React, PHP, HTML, CSS**
-
-- 📫 How to reach me **ujjal.kumer@bjitgroup.com**
-
-- 📄 Know about my experiences [https://www.monster.com/career-advice/article/web-developer-resume-sample](https://www.monster.com/career-advice/article/web-developer-resume-sample)
-
-- ⚡ Fun fact **I am funny**
+🔭 I’m currently working on [BJET](https://www.facebook.com/bjet.org)<br/>
+🌱 I’m currently learning **Python**<br/>
+👨‍💻 All of my projects are available at [https://www.project.co/](https://www.project.co/)<br/>
+📝 I regularly write articles on [https://techcrunch.com/](https://techcrunch.com/)<br/>
+💬 Ask me about **React, PHP, HTML, CSS**<br/>
+📫 How to reach me **ujjal.kumer@bjitgroup.com**<br/>
+📄 Know about my experiences [https://www.monster.com/career-advice/article/web-developer-resume-sample](https://www.monster.com/career-advice/article/web-developer-resume-sample)<br/>
+⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
