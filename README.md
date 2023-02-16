@@ -32,7 +32,7 @@
 <h3 align="left">Examples of Work:</h3>
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uksaha77&show_icons=true&locale=en&layout=compact" alt="uksaha77" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uksaha77&show_icons=true&locale=en" alt="uksaha77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uksaha77&" alt="uksaha77" /></p>
