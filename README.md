@@ -10,8 +10,8 @@ Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training
 I'm currently learning Python, AWS, Graphic Design to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
-Topics: SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
-Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
+- <b>Technologies:</b> PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma
 
 ## ⚡ Fun fact
 [Insert a fun fact about yourself that people might find interesting.]
