@@ -16,9 +16,10 @@ I'm currently learning Python, AWS, Graphic Design to improve my development ski
 ## ⚡ Fun fact
 [Insert a fun fact about yourself that people might find interesting.]
 
-## 📝 I regularly write articles on
-- [Blog URL]
-- [Blog URL]
+## 📝 Blogs and writing
+I've very active, writing content regularly to at least one of these.
+- [Blog Link]
+- [Blog Link]
 
 ## 📫 How to reach me
 <p align="left">
