@@ -1,7 +1,7 @@
 <img alt="Web Development Banner" height="250" src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" style="max-width: 100%; display: inline-block;">
 <h1 align="center">Hi there, I'm Ujjal K. Saha 👋</h1>
 <p align="center" style="padding: 0; margin-bottom: 0px !important;"><img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="max-width: 100%;" data-target="animated-image.originalImage"></p>
-<h3 align="left">Sr. Project Manager @ BJIT | ICT Instructor @ BJET & BJIT Academy</h3>
+<h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 ## 🔭 What I'm working on
