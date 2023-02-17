@@ -18,7 +18,8 @@ Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illust
 [Insert a fun fact about yourself that people might find interesting.]
 
 ## 📝 I regularly write articles on
-[List of URLs]
+- [Blog URL]
+- [Blog URL]
 
 ## 📫 How to reach me
 <p align="left">
@@ -65,8 +66,7 @@ Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illust
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uksaha77&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uksaha77&show_icons=true&locale=en&layout=compact" alt="uksaha77" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uksaha77&show_icons=true&locale=en" alt="uksaha77" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uksaha77&show_icons=true&locale=en" alt="uksaha77" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uksaha77&" alt="uksaha77" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uksaha77" alt="uksaha77" /></a> </p>
 
