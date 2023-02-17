@@ -73,4 +73,4 @@ Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illust
 ## 🏷️ Video Resources
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
 
-## 💻 Github Code Repo
+## 💻 Github Repositories
