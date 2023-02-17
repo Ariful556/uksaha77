@@ -3,10 +3,10 @@
 <h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
-## 🔭 What I'm working on
+## 👩‍💻 What I'm working on
 Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as an ICT instructor, BJIT Academy (a global standard training program for fresh talent) as an instructor, as well as various software development projects at BJIT Limited as senior project manager. I'm responsible to provide technology training and manage software development projects.
 
-## 🌱 What I'm currently learning
+## 🧠 What I'm currently learning
 I'm currently learning Python, AWS, Graphic Design to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
